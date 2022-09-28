@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Teju4real
+- 👋 Hi, I’m Olateju
 - 💞️ Super talented and innovative tech genius
-- 👀 I’m interested in Software and AI
-- 🌱 I’m currently learning JavaScript and Python
+- 👀 I’m interested in Software, AI & ML
+- 🌱 I’m currently mastering frontend technologies
 - 💞️ I’m open to opportunies that allows me learn, develop and collaborate on software projects
 - 📫 Reach me via mail on ezekielolateju@gmail.com or LinkedIn https://linkedin.com/in/4olateju
 
